@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\bin\Debug\netcoreapp3.0\Day01-2019-12-1.exe
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\bin\Debug\netcoreapp3.0\Day01-2019-12-1.deps.json
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\bin\Debug\netcoreapp3.0\Day01-2019-12-1.runtimeconfig.json
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\bin\Debug\netcoreapp3.0\Day01-2019-12-1.runtimeconfig.dev.json
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\bin\Debug\netcoreapp3.0\Day01-2019-12-1.dll
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\bin\Debug\netcoreapp3.0\Day01-2019-12-1.pdb
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\obj\Debug\netcoreapp3.0\Day01-2019-12-1.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\obj\Debug\netcoreapp3.0\Day01-2019-12-1.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\obj\Debug\netcoreapp3.0\Day01-2019-12-1.AssemblyInfo.cs
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\obj\Debug\netcoreapp3.0\Day01-2019-12-1.dll
+D:\WangYH_Code\Code\CSharp\Day01-2019-12-1\obj\Debug\netcoreapp3.0\Day01-2019-12-1.pdb

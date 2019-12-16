@@ -41,14 +41,41 @@ namespace CSharpDataType
             Console.WriteLine("double sizeof : {0}", sizeof(double));  // -> 8
             Console.WriteLine("bool sizeof : {0}", sizeof(bool));  // -> 1
             
-            //Object Type - 对象类型
+            // Object Type - 对象类型
             object obj;
-            // 装箱 - 将一个值类型隐式转换为对象类型称之为装箱。
+            // 装箱 - 将一个值类型隐式转换为对象类型称之为装箱。 - 程序中尽量不适用装箱，会增加性能损耗
             int i = 1;
             obj = i;
             obj = (object)i;
             // 拆箱 - 将一个对象类型转换为值类型称之为拆箱。
             int j = (int)obj;
+
+            // Dynamic Type - 动态类型
+            // 声明动态类型
+            dynamic d0 = 2;
+            // 转换 - 任何实力都能够隐式转换为 dynamic类型，反之亦然。
+            dynamic d1 = 0;
+            dynamic d2 = "String";
+            Console.WriteLine("d1 is int {0}, d2 is string {1}", d1, d2);
+            int n = d0;
+            Console.WriteLine("d0 {0}", d0);
+
+            // String Type - 字符串类型
+            String str = "github.com/wMiu";
+            Console.WriteLine(str);
+            // String str1 = "C:\windows"; - '\'特殊字符 需要转义
+            // 字符转转义 - 转义字符 : \
+            String str2 = "C:\\windows";
+            Console.WriteLine("转移后的字符串 : {0}", str2);
+            // 逐字字符串 @"" - 将每一个字符都当普通字符对待
+            String str3 = @"C:\windows";
+            Console.WriteLine("使用@后的字符串 : {0}", str3);
+            String str4 = @"
+                使用@"" 的字符串可以任意换行，换行及缩进空格都计算在字符串长度之内
+            ";
+            Console.WriteLine(str4);
+
+            // Pointer Type 指针类型
         }
     }
 }

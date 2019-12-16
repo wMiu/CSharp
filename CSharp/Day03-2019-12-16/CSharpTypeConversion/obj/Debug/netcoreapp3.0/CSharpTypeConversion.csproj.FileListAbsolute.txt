@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\obj\Debug\netcoreapp3.0\CSharpTypeConversion.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\obj\Debug\netcoreapp3.0\CSharpTypeConversion.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\obj\Debug\netcoreapp3.0\CSharpTypeConversion.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\bin\Debug\netcoreapp3.0\CSharpTypeConversion.exe
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\bin\Debug\netcoreapp3.0\CSharpTypeConversion.deps.json
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\bin\Debug\netcoreapp3.0\CSharpTypeConversion.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\bin\Debug\netcoreapp3.0\CSharpTypeConversion.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\bin\Debug\netcoreapp3.0\CSharpTypeConversion.dll
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\bin\Debug\netcoreapp3.0\CSharpTypeConversion.pdb
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\obj\Debug\netcoreapp3.0\CSharpTypeConversion.dll
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day03-2019-12-16\CSharpTypeConversion\obj\Debug\netcoreapp3.0\CSharpTypeConversion.pdb

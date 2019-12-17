@@ -29,8 +29,6 @@ namespace VariableAndConstant
             const int c0 = 1;
             // c0 = 2;  // 报错。常量不可以重新赋值。  Error:  赋值号左边必须是变量、属性或索引器
             Console.WriteLine(c0);
-
-
         }
     }
 }

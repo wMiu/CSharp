@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\bin\Debug\netcoreapp3.0\Operators.exe
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\bin\Debug\netcoreapp3.0\Operators.deps.json
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\bin\Debug\netcoreapp3.0\Operators.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\bin\Debug\netcoreapp3.0\Operators.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\bin\Debug\netcoreapp3.0\Operators.dll
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\bin\Debug\netcoreapp3.0\Operators.pdb
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\obj\Debug\netcoreapp3.0\Operators.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\obj\Debug\netcoreapp3.0\Operators.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\obj\Debug\netcoreapp3.0\Operators.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\obj\Debug\netcoreapp3.0\Operators.dll
+D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Operators\obj\Debug\netcoreapp3.0\Operators.pdb

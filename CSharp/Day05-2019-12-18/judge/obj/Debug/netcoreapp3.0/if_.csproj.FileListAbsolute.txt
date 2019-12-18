@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\bin\Debug\netcoreapp3.0\judge.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\bin\Debug\netcoreapp3.0\judge.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\bin\Debug\netcoreapp3.0\judge.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\bin\Debug\netcoreapp3.0\judge.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\bin\Debug\netcoreapp3.0\judge.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\bin\Debug\netcoreapp3.0\judge.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\obj\Debug\netcoreapp3.0\judge.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\obj\Debug\netcoreapp3.0\judge.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\obj\Debug\netcoreapp3.0\judge.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\obj\Debug\netcoreapp3.0\judge.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day05-2019-12-18\judge\obj\Debug\netcoreapp3.0\judge.pdb

@@ -60,6 +60,54 @@ namespace judge
                     Console.WriteLine("a 等于 1，b 等于 2");
                 }
             }
+
+            
+            // switch 语句
+            /*
+                switch (expression){
+                    case constant-expression:
+                        statement(s);
+                        break;  // 终止
+                    case constant-exoression:
+                        statement(s);
+                        break;
+                    ...
+                    default:
+                        statement(s);
+                        break;
+                }
+                1. switch 中的expression 必须是一个整型或枚举类型，或者为一个class类型，
+                   其中class有一个单一的转换函数将转换为整型或枚举类型
+                2. 可以有多个 case， 但至多只能右一个 default 且只能出现在最后
+                3. C# 中 只有当case为空时可以不写 break。
+                4. 无法向下贯穿执行，可以使用 goto
+            */
+            int a1 = 1;
+            switch (a1) {
+                case 0:
+                    Console.WriteLine("a1 = {0}", a1);
+                    break;
+                case 1:
+                    Console.WriteLine("a1 = {0}", a1);
+                    break;
+                default:
+                    Console.WriteLine("其他");
+                    break;
+            }
+            // 嵌套 switch 语句
+            int a2= 2;
+            switch (a1){
+                case 1:
+                    switch(a2){
+                        case 2:
+                            Console.WriteLine("a1 = {0}, a2 = {1}", a1, a2);
+                            break;
+                    }
+                    break;
+                default:
+                    Console.WriteLine("其他");
+                    break;
+            }
         }
     }
 }

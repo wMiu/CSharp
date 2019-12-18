@@ -108,6 +108,17 @@ namespace judge
                     Console.WriteLine("其他");
                     break;
             }
+
+            // ? : 运算符； 三目运算符
+            int b1 = 1;
+            int b2 = 2;
+            int b3;
+            b3 =  b1 > b2 ? 3 : 0;
+            Console.WriteLine("b3 = {0}", b3);
+            // 三目运算符的嵌套使用
+            int b4;
+            b4 = b1 == 1 ? b2 == 2 ? 44 : b2 > b1 ? 4 : 0 : 0;
+            Console.WriteLine("b4 = {0}", b4);
         }
     }
 }

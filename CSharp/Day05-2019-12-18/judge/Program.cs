@@ -52,6 +52,14 @@ namespace judge
             }
             // 注意 - 一个if...else if...else 语句最多且只有一个else,并且出现在最后
             //      - 在上面的条件成立后将不会执行下面的其他条件了。
+
+            // 嵌套 if - 不建议嵌套超过三层
+            int b = 2;
+            if (a == 1){
+                if (b == 2){
+                    Console.WriteLine("a 等于 1，b 等于 2");
+                }
+            }
         }
     }
 }

@@ -37,6 +37,34 @@ namespace loops
             /*
                 foreach 循环 - 可以迭代数组或是一个集合对象。
             */
+            Console.WriteLine("--- Foreach ---");
+            int[] array1 = new int[] {1, 2, 3, 4, 5};
+            int index = 0;
+            foreach (int i in array1){
+                Console.WriteLine("array[{0}] = {1}", index, i);
+                index++;
+            }
+            /*
+                do...while 循环 - 至少循环一次。
+                do{
+                    循环体;
+                } while {condition};
+                
+                循环流程:
+                    循环体 -> condition -
+                    ^------true------|
+            */
+            Console.WriteLine("--- Do...While ---");
+            int dw1 = 0;
+            do{
+                Console.WriteLine("dw1 = {0}", dw1);
+                dw1++;
+            }while (dw1 < 0);
+
+            /*
+                循环嵌套
+            */
         }
     }
 }
+;

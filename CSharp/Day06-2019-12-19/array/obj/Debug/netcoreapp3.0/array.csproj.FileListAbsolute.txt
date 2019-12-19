@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\obj\Debug\netcoreapp3.0\array.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\obj\Debug\netcoreapp3.0\array.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\obj\Debug\netcoreapp3.0\array.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\bin\Debug\netcoreapp3.0\array.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\bin\Debug\netcoreapp3.0\array.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\bin\Debug\netcoreapp3.0\array.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\bin\Debug\netcoreapp3.0\array.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\bin\Debug\netcoreapp3.0\array.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\bin\Debug\netcoreapp3.0\array.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\obj\Debug\netcoreapp3.0\array.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\array\obj\Debug\netcoreapp3.0\array.pdb

@@ -40,8 +40,8 @@ namespace loops
             Console.WriteLine("--- Foreach ---");
             int[] array1 = new int[] {1, 2, 3, 4, 5};
             int index = 0;
-            foreach (int i in array1){
-                Console.WriteLine("array[{0}] = {1}", index, i);
+            foreach (int i1 in array1){
+                Console.WriteLine("array[{0}] = {1}", index, i1);
                 index++;
             }
             /*
@@ -64,6 +64,19 @@ namespace loops
             /*
                 循环嵌套
             */
+            Console.WriteLine("--- 质数 ---");
+            // smallProject - 100以内的质数
+            int i, j;
+            for ( i = 2; i < 100; i++){
+                for ( j = 2; j <= i / j; j++){
+                    if (i % j == 0){
+                        break;
+                    }
+                }
+                if (j > (i / j)){
+                    Console.WriteLine("质数 - {0}", i);
+                }
+            }
         }
     }
 }

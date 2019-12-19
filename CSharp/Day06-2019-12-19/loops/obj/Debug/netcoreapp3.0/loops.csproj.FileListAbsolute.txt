@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\bin\Debug\netcoreapp3.0\loops.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\bin\Debug\netcoreapp3.0\loops.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\bin\Debug\netcoreapp3.0\loops.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\bin\Debug\netcoreapp3.0\loops.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\bin\Debug\netcoreapp3.0\loops.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\bin\Debug\netcoreapp3.0\loops.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\obj\Debug\netcoreapp3.0\loops.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\obj\Debug\netcoreapp3.0\loops.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\obj\Debug\netcoreapp3.0\loops.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\obj\Debug\netcoreapp3.0\loops.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day06-2019-12-19\loops\obj\Debug\netcoreapp3.0\loops.pdb

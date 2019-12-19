@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WangYH_Code\\Code\\CSharp\\Day01-2019-12-1\\Day01-2019-12-1.csproj": {}
+    "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day01-2019-12-1\\Day01-2019-12-1.csproj": {}
   },
   "projects": {
-    "D:\\WangYH_Code\\Code\\CSharp\\Day01-2019-12-1\\Day01-2019-12-1.csproj": {
+    "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day01-2019-12-1\\Day01-2019-12-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WangYH_Code\\Code\\CSharp\\Day01-2019-12-1\\Day01-2019-12-1.csproj",
+        "projectUniqueName": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day01-2019-12-1\\Day01-2019-12-1.csproj",
         "projectName": "Day01-2019-12-1",
-        "projectPath": "D:\\WangYH_Code\\Code\\CSharp\\Day01-2019-12-1\\Day01-2019-12-1.csproj",
+        "projectPath": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day01-2019-12-1\\Day01-2019-12-1.csproj",
         "packagesPath": "C:\\Users\\wangy\\.nuget\\packages\\",
-        "outputPath": "D:\\WangYH_Code\\Code\\CSharp\\Day01-2019-12-1\\obj\\",
+        "outputPath": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day01-2019-12-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wangy\\AppData\\Roaming\\NuGet\\NuGet.Config"

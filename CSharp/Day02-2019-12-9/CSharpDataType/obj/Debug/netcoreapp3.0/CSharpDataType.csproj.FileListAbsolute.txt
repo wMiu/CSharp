@@ -9,3 +9,14 @@ D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day02-2019-12-9\CShar
 D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\obj\Debug\netcoreapp3.0\CSharpDataType.AssemblyInfo.cs
 D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\obj\Debug\netcoreapp3.0\CSharpDataType.dll
 D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\obj\Debug\netcoreapp3.0\CSharpDataType.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\bin\Debug\netcoreapp3.0\CSharpDataType.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\bin\Debug\netcoreapp3.0\CSharpDataType.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\bin\Debug\netcoreapp3.0\CSharpDataType.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\bin\Debug\netcoreapp3.0\CSharpDataType.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\bin\Debug\netcoreapp3.0\CSharpDataType.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\bin\Debug\netcoreapp3.0\CSharpDataType.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\obj\Debug\netcoreapp3.0\CSharpDataType.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\obj\Debug\netcoreapp3.0\CSharpDataType.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\obj\Debug\netcoreapp3.0\CSharpDataType.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\obj\Debug\netcoreapp3.0\CSharpDataType.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\CSharpDataType\obj\Debug\netcoreapp3.0\CSharpDataType.pdb

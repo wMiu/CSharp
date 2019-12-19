@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\bin\Debug\netcoreapp3.0\rectangle.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\bin\Debug\netcoreapp3.0\rectangle.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\bin\Debug\netcoreapp3.0\rectangle.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\bin\Debug\netcoreapp3.0\rectangle.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\bin\Debug\netcoreapp3.0\rectangle.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\bin\Debug\netcoreapp3.0\rectangle.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\obj\Debug\netcoreapp3.0\rectangle.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\obj\Debug\netcoreapp3.0\rectangle.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\obj\Debug\netcoreapp3.0\rectangle.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\obj\Debug\netcoreapp3.0\rectangle.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day02-2019-12-9\rectangle\obj\Debug\netcoreapp3.0\rectangle.pdb

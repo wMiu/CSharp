@@ -9,3 +9,14 @@ D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\Vari
 D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\bin\Debug\netcoreapp3.0\VariableAndConstant.pdb
 D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\obj\Debug\netcoreapp3.0\VariableAndConstant.dll
 D:\WangYH_Code\Code\GitHub\UnityAndCSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\obj\Debug\netcoreapp3.0\VariableAndConstant.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\bin\Debug\netcoreapp3.0\VariableAndConstant.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\bin\Debug\netcoreapp3.0\VariableAndConstant.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\bin\Debug\netcoreapp3.0\VariableAndConstant.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\bin\Debug\netcoreapp3.0\VariableAndConstant.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\bin\Debug\netcoreapp3.0\VariableAndConstant.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\bin\Debug\netcoreapp3.0\VariableAndConstant.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\obj\Debug\netcoreapp3.0\VariableAndConstant.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\obj\Debug\netcoreapp3.0\VariableAndConstant.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\obj\Debug\netcoreapp3.0\VariableAndConstant.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\obj\Debug\netcoreapp3.0\VariableAndConstant.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day04-2019-12-17\VariableAndConstant\obj\Debug\netcoreapp3.0\VariableAndConstant.pdb

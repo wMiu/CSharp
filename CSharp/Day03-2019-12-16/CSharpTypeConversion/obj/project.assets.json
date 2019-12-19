@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WangYH_Code\\Code\\GitHub\\UnityAndCSharp-SelfStudy\\CSharp\\Day03-2019-12-16\\CSharpTypeConversion\\CSharpTypeConversion.csproj",
+      "projectUniqueName": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day03-2019-12-16\\CSharpTypeConversion\\CSharpTypeConversion.csproj",
       "projectName": "CSharpTypeConversion",
-      "projectPath": "D:\\WangYH_Code\\Code\\GitHub\\UnityAndCSharp-SelfStudy\\CSharp\\Day03-2019-12-16\\CSharpTypeConversion\\CSharpTypeConversion.csproj",
+      "projectPath": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day03-2019-12-16\\CSharpTypeConversion\\CSharpTypeConversion.csproj",
       "packagesPath": "C:\\Users\\wangy\\.nuget\\packages\\",
-      "outputPath": "D:\\WangYH_Code\\Code\\GitHub\\UnityAndCSharp-SelfStudy\\CSharp\\Day03-2019-12-16\\CSharpTypeConversion\\obj\\",
+      "outputPath": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day03-2019-12-16\\CSharpTypeConversion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wangy\\AppData\\Roaming\\NuGet\\NuGet.Config"

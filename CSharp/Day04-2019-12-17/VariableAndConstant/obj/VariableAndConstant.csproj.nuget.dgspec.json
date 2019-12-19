@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WangYH_Code\\Code\\GitHub\\UnityAndCSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\VariableAndConstant.csproj": {}
+    "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\VariableAndConstant.csproj": {}
   },
   "projects": {
-    "D:\\WangYH_Code\\Code\\GitHub\\UnityAndCSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\VariableAndConstant.csproj": {
+    "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\VariableAndConstant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WangYH_Code\\Code\\GitHub\\UnityAndCSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\VariableAndConstant.csproj",
+        "projectUniqueName": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\VariableAndConstant.csproj",
         "projectName": "VariableAndConstant",
-        "projectPath": "D:\\WangYH_Code\\Code\\GitHub\\UnityAndCSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\VariableAndConstant.csproj",
+        "projectPath": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\VariableAndConstant.csproj",
         "packagesPath": "C:\\Users\\wangy\\.nuget\\packages\\",
-        "outputPath": "D:\\WangYH_Code\\Code\\GitHub\\UnityAndCSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\obj\\",
+        "outputPath": "D:\\WangYH_Code\\Code\\GitHub\\CSharp-SelfStudy\\CSharp\\Day04-2019-12-17\\VariableAndConstant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wangy\\AppData\\Roaming\\NuGet\\NuGet.Config"

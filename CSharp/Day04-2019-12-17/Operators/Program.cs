@@ -108,7 +108,7 @@ namespace Operators
             /*
             * sizeof() - 返回数据类型大小。
             * typeof() - 返回class的类型。
-            * &        - 返回变量的地址。  *v;
+            * &        - 返回变量的地址。  &v;
             * *        - 变量的指针。      *v;
             * ?:       - 条件表达式(三目)  a == b ? true : false
             * is       - 判断对象是否为同一个类型。

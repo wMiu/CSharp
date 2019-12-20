@@ -77,6 +77,10 @@ namespace loops
                     Console.WriteLine("质数 - {0}", i);
                 }
             }
+
+            // 循环 控制语句 
+            // break - 遇到break 则退出整个循环
+            // continue - 重新判断是否进入循环
         }
     }
 }

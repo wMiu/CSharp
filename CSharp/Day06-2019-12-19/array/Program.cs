@@ -55,6 +55,60 @@ namespace array
                 Console.WriteLine("arrI1的第{0}个元素的值是{1}。", index, item);
                 index++;
             }
+
+            // 多维数组
+            Console.WriteLine("多维数组");
+            // 声明二维数组
+            int [,] twoArr1 = new int[1,1] {
+                {1}
+            };
+            Console.WriteLine(twoArr1[0,0]);
+            // 三维数组
+            int [, ,] threeArr1 = new int [1,1,1] {
+                {
+                    {2}
+                }
+            };
+            Console.WriteLine(threeArr1[0,0,0]);
+            // 循环显示二维数组的每一个元素 与 位置。
+            int [,] twoArr2 = new int[3,3] {
+                {1, 2, 3},
+                {4, 5, 6},
+                {7, 8, 9}
+            };
+            // Console.WriteLine(twoArr2[0].Length);
+            foreach (int twoArr2Item in twoArr2){
+                Console.WriteLine(twoArr2Item);
+            }
+            Console.WriteLine("--- For ---");
+            // int rank = twoArr2.Rank;
+            // int[] dArray = new int[] {};
+            // for (int tArI = 0; tArI < twoArr2.Rank; tArI++){
+            //     Console.WriteLine(tArI);
+            //     dArray[tArI] = twoArr2.GetLength(tArI);
+            // }
+            // 强行遍历
+            for (int tArrI = 0; tArrI < 3; tArrI++){
+                for (int tArrJ = 0; tArrJ < 3;tArrJ++){
+                    Console.WriteLine("twoArr2[{0},{1}] = {2}", tArrI, tArrJ, twoArr2[tArrI, tArrJ]);
+                }
+            }
+            // 交错数组 - 数组的数组
+            Console.WriteLine("交错数组");
+            // 声明
+            int [][] interlaceArray = new int[3][] {
+                new int[]{1, 2, 3},
+                new int[]{4, 5, 6},
+                new int[]{7, 8, 9}
+            };
+            Console.WriteLine(interlaceArray.Length);
+            // 遍历
+            for (int iArrI = 0; iArrI < interlaceArray.Length; iArrI++){
+                for (int iArrJ = 0; iArrJ < interlaceArray[iArrI].Length; iArrJ++){
+                    Console.WriteLine("interlaceArray[{0}][{1}] = {2}", iArrI, iArrJ, interlaceArray[iArrI][iArrJ]);
+                }
+            }
+
         }
     }
 }

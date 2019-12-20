@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\obj\Debug\netcoreapp3.0\func.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\obj\Debug\netcoreapp3.0\func.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\obj\Debug\netcoreapp3.0\func.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\bin\Debug\netcoreapp3.0\func.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\bin\Debug\netcoreapp3.0\func.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\bin\Debug\netcoreapp3.0\func.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\bin\Debug\netcoreapp3.0\func.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\bin\Debug\netcoreapp3.0\func.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\bin\Debug\netcoreapp3.0\func.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\obj\Debug\netcoreapp3.0\func.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\CSharp\Day07-2019-12-20\func\obj\Debug\netcoreapp3.0\func.pdb

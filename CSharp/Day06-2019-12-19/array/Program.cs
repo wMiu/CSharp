@@ -109,6 +109,45 @@ namespace array
                 }
             }
 
+            // Array 类的属性。
+            int[] arrAttribute = new int[] {1, 2, 3, 4, 5};
+            // ISFixedSize - 返回一个Boolean，表示该数组是否带有固定的大小
+            bool isFixedSize = arrAttribute.IsFixedSize;
+            Console.WriteLine("数组是否有固定大小 - {0}", isFixedSize);
+            // IsReadOnly - 返回一个Boolean, 表示该数组是否可读
+            bool isReadOnly = arrAttribute.IsReadOnly;
+            Console.WriteLine("数组是否可读 - {0}", isReadOnly);
+            // Length - 返回32 位整数， 表示该数组的所有维度元素总和
+            int len = arrAttribute.Length;
+            Console.WriteLine("数组的总元素为Length - {0}", len);
+            // LongLenth - 返回64 位整数，表示该数组的所有维度元素总和
+            long longlen = arrAttribute.LongLength;
+            Console.WriteLine("数组的总元素为LongLength - {0}",longlen);
+            // Rank - 获取数组的秩(维度)
+            int rank = arrAttribute.Rank;
+            Console.WriteLine("数组的维度为 - {0}", rank);
+
+            // 数组类的方法
+            int[] arrFunction = new int[] {1, 2, 3};
+            Console.WriteLine("ArrFunction - {0}", arrFunction);
+            // Clear - 根据元素的类型，设置数组中某个范围的元素为零。
+            // Copy(Arr1, Arr2, Int32) - 从arr1第一个元素开始复制一个范围到arr2第一个元素的位置。范围由int32指定。
+            // CopyTo(Array, Int32)
+            // GetLength - 返回32 位整数， 表示该数组的所有维度元素总和
+            // GetLongLenth - 返回64 位整数，表示该数组的所有维度元素总和
+            // GetLowerBound
+            // GetType
+            // GetUpperBound
+            // GetValue(Int32)
+            // IndexOf(Array, Object)
+            // Reverse(Array)
+            // SetValue(Object, Int32)
+            // Sort(Array)  - 对数组排序
+            // ToString
+            
+            Array.Sort(arrFunction);
+            Console.WriteLine("排序后的 ArrFunction - {0}", arrFunction);
+
         }
     }
 }

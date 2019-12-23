@@ -45,8 +45,16 @@ namespace func
             Console.WriteLine(x2);
             Console.WriteLine(y2);
 
+            // 给函数传递数组
+            Console.WriteLine("--- 给函数传递数组 ---");
+            int[] funcInArr = new int[] {1, 2, 3, 4, 5};
+            double r = p.getAverage(funcInArr);
+            Console.WriteLine(r);
+            // 参数数组
+            Console.WriteLine("--- 参数数组 ---");
+            Console.WriteLine("和 - {0}", p.addElements(1, 2, 3, 4, 5));
 
-            
+
         }
         // 定义函数 FindMax 
         public int findMax(int num1, int num2){
@@ -74,6 +82,25 @@ namespace func
         public void getValues(out int x2, out int y2){
             x2 = 10;
             y2 = 10;
+        }
+
+        // 给函数传递 数组
+        public double getAverage(int[] arr){
+            double sum = 0;
+            int arrLength = arr.Length;
+            for (int i = 0; i < arrLength; i++){
+                sum += arr[i];
+            }
+            return sum / arrLength;
+        }
+
+        // 参数数组 
+        public double addElements(params double[] arr){
+            double sum = 0;
+            for(int i = 0; i < arr.Length; i++){
+                sum += arr[i];
+            }
+            return sum;
         }
     }
 }

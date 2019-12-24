@@ -6,6 +6,7 @@ namespace array
     {
         static void Main(string[] args)
         {
+            Program p = new Program();  // 实例化Program类
             // 数组 Array
             /*
             *   数组是一个存储相同类型元素且有固定大小的顺序集合。
@@ -128,26 +129,64 @@ namespace array
             Console.WriteLine("数组的维度为 - {0}", rank);
 
             // 数组类的方法
-            int[] arrFunction = new int[] {1, 2, 3};
-            Console.WriteLine("ArrFunction - {0}", arrFunction);
-            // Clear - 根据元素的类型，设置数组中某个范围的元素为零。
+            int[] arrFunction = new int[] {2, 1, 2, 3};
+            Console.WriteLine("ArrFunction");
+            p.printIntArray(arrFunction);
+            // Clear(arr, start, end) - 根据元素的类型，设置数组中某个范围的元素为零。 start 为起始位置，end 为结束位置。
+            Array.Clear(arrFunction, 0, 2);
+            Console.WriteLine("Clear后的arrFunc");
+            p.printIntArray(arrFunction);
             // Copy(Arr1, Arr2, Int32) - 从arr1第一个元素开始复制一个范围到arr2第一个元素的位置。范围由int32指定。
-            // CopyTo(Array, Int32)
-            // GetLength - 返回32 位整数， 表示该数组的所有维度元素总和
-            // GetLongLenth - 返回64 位整数，表示该数组的所有维度元素总和
-            // GetLowerBound
-            // GetType
-            // GetUpperBound
-            // GetValue(Int32)
-            // IndexOf(Array, Object)
-            // Reverse(Array)
-            // SetValue(Object, Int32)
+            arrFunction = new int[] {2, 1, 2, 3};
+            Console.WriteLine("Copy - 新的数组");
+            int[] newArr = new int[5]; 
+            Array.Copy(arrFunction, newArr, 3);
+            p.printIntArray(newArr);
+            // CopyTo(Array, Int32) - Int32为，复制到Array的元素的位置。
+            arrFunction = new int[] {2, 1, 2, 3};
+            newArr = new int[5];
+            Console.WriteLine("CopyTo - 新的数组");
+            arrFunction.CopyTo(newArr, 0);
+            p.printIntArray(newArr);
+            // GetLength(Int32) - 返回32位整数， Int32为某一维度 0 代表第一维，返回某一维度元素总和。
+            Console.WriteLine("数组第一维元素总和GetLength - {0}", arrFunction.GetLength(0));
+            // GetLongLenth(Int32) - 返回64 位整数，Int32为某一维度 0 代表第一维，返回某一维度元素总和。
+            Console.WriteLine("数组第一维元素总和GetLongLength - {0}", arrFunction.GetLongLength(0));
+            // GetLowerBound(Int32) - 返回指定维度第一个元素的索引
+            Console.WriteLine("GetLowerBound索引为 - {0}", arrFunction.GetLowerBound(0));
+            // GetType : 获取当前数组的类型
+            Console.WriteLine("GetType - {0}", arrFunction.GetType());
+            // GetUpperBound - 返回指定维度的最后一个元素的索引
+            Console.WriteLine("GetUpperBound索引为 - {0}", arrFunction.GetUpperBound(0));
+            // GetValue(Int32) - Int32 为索引位置，返回指定索引位置的元素，只能对一维数组做操作
+            Console.WriteLine("GetValue - {0}", arrFunction.GetValue(0));
+            // IndexOf(Array, Object) - 返回 第一个object 出现在array中的索引
+            Console.WriteLine("IndexOf - {0}", Array.IndexOf(arrFunction, 2));
+            // Reverse(Array) - 反转array
+            Console.WriteLine("--- 反转后的arrFunction----");
+            Array.Reverse(arrFunction);
+            p.printIntArray(arrFunction);
+            // SetValue(Object, Int32) - 将索引为Int32的元素改为 object给的值
+            arrFunction = new int[] {2, 1, 2, 3};
+            arrFunction.SetValue(100, 2);
+            Console.WriteLine("SetValue");
+            p.printIntArray(arrFunction);
             // Sort(Array)  - 对数组排序
-            // ToString
-            
+            arrFunction = new int[] {2, 1, 2, 3};
             Array.Sort(arrFunction);
-            Console.WriteLine("排序后的 ArrFunction - {0}", arrFunction);
-
+            Console.WriteLine("排序后的 ArrFunction");
+            p.printIntArray(arrFunction);
+            // ToString
+            arrFunction = new int[] {2, 1, 2, 3};
+            Console.WriteLine("ToString");
+            string a = arrFunction.ToString();
+            Console.WriteLine(a);
+        }
+        public void printIntArray(int[] arr){
+            foreach (int item in arr){
+                Console.Write("{0} ", item);
+            }
+            Console.WriteLine();
         }
     }
 }

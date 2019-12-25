@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\bin\Debug\netcoreapp3.0\BubbleSort.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\bin\Debug\netcoreapp3.0\BubbleSort.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\bin\Debug\netcoreapp3.0\BubbleSort.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\bin\Debug\netcoreapp3.0\BubbleSort.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\bin\Debug\netcoreapp3.0\BubbleSort.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\bin\Debug\netcoreapp3.0\BubbleSort.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\obj\Debug\netcoreapp3.0\BubbleSort.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\obj\Debug\netcoreapp3.0\BubbleSort.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\obj\Debug\netcoreapp3.0\BubbleSort.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\obj\Debug\netcoreapp3.0\BubbleSort.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\BubbleSort\obj\Debug\netcoreapp3.0\BubbleSort.pdb

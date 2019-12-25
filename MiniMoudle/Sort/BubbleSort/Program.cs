@@ -17,15 +17,19 @@ namespace BubbleSort
         public int[] bubbleSort(int[] arr){
             int len = arr.Length;
             int i, j, med;
+            int count = 0;
             for (i = 0; i < len - 1; i++){
                 for(j = 0; j < len - i - 1; j++){
                     if (arr [j] > arr [j + 1]){
+                        ++count;
                         med = arr[j];
                         arr[j] = arr[j + 1];
                         arr[j + 1] = med;
                     }
                 }
-
+                if (count == 0){
+                    return arr;
+                }
             }
             return arr;
         }

@@ -17,15 +17,15 @@ namespace SelectSort
         public int[] SelectSort(int[] arr){
             int len = arr.Length;
             int i, j, med, min;
-            for (i = 0; i < len; i ++){
-                for (j = i + 1; j < len; j ++){
-                    min = i;
+            for (i = 0; i < len - 1; i++){
+                min = i;
+                for (j = i + 1; j < len; j++){
                     if (arr[min] > arr[j]){
                         min = j;
                     }
                 }
-                med = arr[j];
-                arr[j] = arr[i];
+                med = arr[min];
+                arr[min] = arr[i];
                 arr[i] = med;
             }
             return arr;

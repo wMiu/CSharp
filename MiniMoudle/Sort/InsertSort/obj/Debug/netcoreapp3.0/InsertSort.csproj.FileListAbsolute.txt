@@ -1,0 +1,11 @@
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\bin\Debug\netcoreapp3.0\InsertSort.exe
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\bin\Debug\netcoreapp3.0\InsertSort.deps.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\bin\Debug\netcoreapp3.0\InsertSort.runtimeconfig.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\bin\Debug\netcoreapp3.0\InsertSort.runtimeconfig.dev.json
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\bin\Debug\netcoreapp3.0\InsertSort.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\bin\Debug\netcoreapp3.0\InsertSort.pdb
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\obj\Debug\netcoreapp3.0\InsertSort.csprojAssemblyReference.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\obj\Debug\netcoreapp3.0\InsertSort.AssemblyInfoInputs.cache
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\obj\Debug\netcoreapp3.0\InsertSort.AssemblyInfo.cs
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\obj\Debug\netcoreapp3.0\InsertSort.dll
+D:\WangYH_Code\Code\GitHub\CSharp-SelfStudy\MiniMoudle\Sort\InsertSort\obj\Debug\netcoreapp3.0\InsertSort.pdb
